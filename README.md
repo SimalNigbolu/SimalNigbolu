@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Merhaba, ben Simal!
 
-<!--
-**SimalNigbolu/SimalNigbolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter geliştiricisiyim. Mobil uygulamalar geliştirmeyi, kullanıcı dostu arayüzler oluşturmayı ve sürekli yeni şeyler öğrenmeyi seviyorum.
 
-Here are some ideas to get you started:
+- 🔭 Şu anda bir meditasyon müzik uygulaması geliştiriyorum.
+- 🌱 GetX, Firebase, REST API ve daha fazlasını öğreniyorum.
+- 📫 Bana ulaş: simal@example.com | [LinkedIn](https://linkedin.com/in/simal...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Yeteneklerim
+- Flutter, Dart
+- Firebase Auth, Firestore
+- REST API, Dio
+- Git, GitHub
+- Temel UI/UX tasarımı
+
+### 📌 Öne Çıkan Projeler
+1. Meditasyon Müzik Uygulaması - Deezer API + Just_Audio
+2. Görev Takip Uygulaması - GetX + Dio + Clean Architecture
+
