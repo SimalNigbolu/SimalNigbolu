@@ -9,14 +9,33 @@ Flutter geliştiricisiyim. Mobil uygulamalar geliştirmeyi, kullanıcı dostu ar
 
 ### 🛠 Languages and Tools I Use:
 
-- [Flutter](https://flutter.dev/) – UI toolkit for building natively compiled applications for mobile, web, and desktop
-- [Dart](https://dart.dev/) – Programming language optimized for building UI
-- [Firebase](https://firebase.google.com/) – Backend services like authentication, Firestore, analytics, and more
-- [Android Studio](https://developer.android.com/studio) – Official IDE for Android and Flutter development
-- [Git](https://git-scm.com/) – Version control system
-- [GitHub](https://github.com/) – Hosting for version control and collaboration
-- [GetX](https://pub.dev/packages/get) – Flutter state management and routing solution
-- [Dio](https://pub.dev/packages/dio) – Powerful HTTP client for Dart
+<p align="left">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://pub.dev/packages/get" target="_blank">
+    <img src="https://img.shields.io/badge/GetX-Flutter-blue?logo=flutter" alt="GetX" height="40"/>
+  </a>
+  <a href="https://pub.dev/packages/dio" target="_blank">
+    <img src="https://img.shields.io/badge/Dio-HTTP-blue" alt="Dio" height="40"/>
+  </a>
+</p>
+
 
 ### 🚀 Yeteneklerim
 - Flutter, Dart
