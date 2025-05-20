@@ -9,17 +9,14 @@ Flutter geliştiricisiyim. Mobil uygulamalar geliştirmeyi, kullanıcı dostu ar
 
 ### 🛠 Languages and Tools I Use:
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/GetX-%23007ACC?style=flat&logo=flutter&logoColor=white" alt="getx" />
-  <img src="https://img.shields.io/badge/Dio-HTTP-blue" alt="dio" />
-</p>
-
+- [Flutter](https://flutter.dev/) – UI toolkit for building natively compiled applications for mobile, web, and desktop
+- [Dart](https://dart.dev/) – Programming language optimized for building UI
+- [Firebase](https://firebase.google.com/) – Backend services like authentication, Firestore, analytics, and more
+- [Android Studio](https://developer.android.com/studio) – Official IDE for Android and Flutter development
+- [Git](https://git-scm.com/) – Version control system
+- [GitHub](https://github.com/) – Hosting for version control and collaboration
+- [GetX](https://pub.dev/packages/get) – Flutter state management and routing solution
+- [Dio](https://pub.dev/packages/dio) – Powerful HTTP client for Dart
 
 ### 🚀 Yeteneklerim
 - Flutter, Dart
