@@ -4,7 +4,7 @@ Flutter geliştiricisiyim. Mobil uygulamalar geliştirmeyi, kullanıcı dostu ar
 
 - 🔭 Şu anda bir meditasyon müzik uygulaması geliştiriyorum.
 - 🌱 GetX, Firebase, REST API ve daha fazlasını öğreniyorum.
-- 📫 Bana ulaş: simal@example.com | [LinkedIn](https://linkedin.com/in/simal...)
+- 📫 Bana ulaş: simaldyk@gmail.com| [LinkedIn](https://www.linkedin.com/in/simalnigbolu/)
 
 ### 🚀 Yeteneklerim
 - Flutter, Dart
