@@ -1,4 +1,4 @@
-### 👋 Merhaba, ben Simal!
+###  Merhaba, ben Simal!
 
 Flutter geliştiricisiyim. Mobil uygulamalar geliştirmeyi, kullanıcı dostu arayüzler oluşturmayı ve sürekli yeni şeyler öğrenmeyi seviyorum.
 
@@ -7,7 +7,7 @@ Flutter geliştiricisiyim. Mobil uygulamalar geliştirmeyi, kullanıcı dostu ar
 - 📫 Bana ulaş: simaldyk@gmail.com| [LinkedIn](https://www.linkedin.com/in/simalnigbolu/)
 
 
-### 🛠 Languages and Tools I Use:
+###  Languages and Tools I Use:
 
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
@@ -37,7 +37,7 @@ Flutter geliştiricisiyim. Mobil uygulamalar geliştirmeyi, kullanıcı dostu ar
 </p>
 
 
-### 🚀 Yeteneklerim
+###  Yeteneklerim
 - Flutter, Dart
 - Firebase Auth, Firestore
 - REST API, Dio
