@@ -1,4 +1,4 @@
-###  Merhaba, ben Simal!
+###  Merhaba, Ben Şimal!
 
 Flutter geliştiricisiyim. Mobil uygulamalar geliştirmeyi, kullanıcı dostu arayüzler oluşturmayı ve sürekli yeni şeyler öğrenmeyi seviyorum.
 
